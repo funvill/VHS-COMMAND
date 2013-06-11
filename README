@@ -1,0 +1,5 @@
+This is the code for the VHS-COMMAND unit, which controls the Vancouver Hack Space Bunker.
+
+This code should be loaded into the special version of Arduino that has access to the Displayduino 644.
+
+
